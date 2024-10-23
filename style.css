@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+p, button, span, a, label{
+  font-family: "Quicksand", sans-serif;
+
+}
+.btn {
+  background-color: #fe8c45;
+  color: white;
+  font-weight: 300;
+}
+.btn:hover {
+  border: 1px solid #fe8c45;
+}
+
+/************ NAVBAR */
+
+.nav-link {
+  font-size: 20px;
+}
+
+/********** SECTION 1 */
+
+.big-font {
+  font-size: 100px;
+  font-weight: 700;
+}
+.sameColor {
+  color: #8a47f6;
+}
+.line {
+  padding: 0 140px;
+  background-color: #8a47f6;
+}
+.slides {
+  height: 22px;
+  width: 22px;
+  background-color: #ededed;
+}
+.img-slider{
+  width: 58%;
+  position: absolute;
+  right: 0;
+}
