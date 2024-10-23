@@ -42,3 +42,16 @@ p, button, span, a, label{
   position: absolute;
   right: 0;
 }
+
+/*************** SECTION 2 */
+
+.color {
+  background-color: #8a47f6;
+}
+.big-font2 {
+  font-size: 70px;
+  font-weight: 800;
+}
+.bg-outer{
+  background-color: #8a47f617;
+}
