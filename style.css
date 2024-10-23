@@ -106,3 +106,61 @@ p, button, span, a, label{
 .sm{
   font-size: 22px;
 }
+
+/************SECTION 7 */
+
+.sec7-h1{
+  font-size: 60px;
+}
+.overHeightInput{
+  height: 280px;
+}
+.changes-top{
+  margin-top: 110px;
+}
+@media (max-width: 800px) {
+  .big-font{
+    font-size: 70px;
+  }
+  .changes-top{
+    margin-top: 20px;
+  }
+}
+@media (max-width: 520px) {
+  .big-font {
+    font-size: 40px;
+  }
+  .line {
+    padding: 0 50px;
+  }
+  .big-font2 {
+    font-size: 30px;
+  }
+  .sec3-h1{
+    font-size: 50px;
+  }
+  .sec4-h1{
+    font-size: 50px;
+  }
+  .low-width{
+    width: 200px;
+  }
+  .img-slider{
+    width: 100%;
+  }
+  .sec6-h1{
+    font-size: 43px;
+
+  }
+  .sm{
+    font-size: 15px;
+  }
+  .sec7-h1{
+    font-size: 45px;
+  }
+  .changes-top{
+    margin-top: 20px;
+  }
+}
+
+
